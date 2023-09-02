@@ -16,7 +16,7 @@
 - Save the jmx file in bin folder and open the jms file in jmeter
 
 ## URL
-##
+## https://random-data-api.com/api/v2/users
 ## Test Report
 -Load Test![Load_Test](https://github.com/Niaz2959/Random-User-API-Performance-Test/assets/55870435/c047d57f-09ee-4a07-b12a-7cf2ab2b1cdd)
 
