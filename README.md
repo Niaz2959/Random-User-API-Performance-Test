@@ -13,7 +13,7 @@
 - Clone this project
 - Setup Jmeter_HOME
 - Click on apache-jmeter-5.6.2\bin\ApacheJMeter.jar
-- Save the jmx file in bin folder and open the jms file in jmeter
+- Save the jmx file in bin folder and open the jmx file in jmeter
 
 ## URL
 ## https://random-data-api.com/api/v2/users
